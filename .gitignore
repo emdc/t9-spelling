@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# IDE and other directories
+.vs
+.vscode
+.idea
+build
+bin
+/third_party
