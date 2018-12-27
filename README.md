@@ -1,4 +1,5 @@
 # t9-spelling
+```
   _______ ___     _____            _ _ _
  |__   __/ _ \   / ____|          | | (_)
     | | | (_) | | (___  _ __   ___| | |_ _ __   __ _
@@ -7,6 +8,7 @@
     |_|   /_/   |_____/| .__/ \___|_|_|_|_| |_|\__, |
                        | |                      __/ |
                        |_|                     |___/
+```
 
 This is a test application that translates a string of text into a sequence of numbers for input through T9. Now support only English, but you can add your dictionary ;)
 
