@@ -37,4 +37,4 @@
 .idea
 build
 bin
-/third_party
+third_party
